@@ -21,3 +21,43 @@ Press :- Shift + 1 and press enter then u get your Formate
     what we want to show in my web page so we write in body part..... all of the codes 
 </body>
 </html>
+
+
+Heading tags 
+
+h1 --> max
+h2
+h3
+h4
+h5
+h6 --> min
+
+there is Size difference between h1 to h6
+
+bold ==> <b> and <strong>
+italic ==> <i> and <em>
+underline ==> <u> and inserted 
+delete ==> <del> and strikex
+high light ==> <mark></mark>
+
+br ==> Break the line 
+
+&nbsp; ==> for Sapcing between text, images etc....
+
+
+in paragraph tag we write lorem100 short cut --> then we got a 100 words paragraph
+
+pre ==> perfomted text
+
+there is total 2 Ways to insert Images  
+
+ <!-- 1st way to insert image  
+        1st Way is insert image from google
+
+        what is src ?  ==> source
+        what is alt ? ==> altranet
+    -->
+
+ <!-- 
+        2nd way is insert image from download 
+     -->
