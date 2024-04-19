@@ -60,4 +60,25 @@ there is total 2 Ways to insert Images
 
  <!-- 
         2nd way is insert image from download 
-     -->
+-->
+
+
+web_page
+// Narendra Modi
+image in center
+
+name in center
+
+p ==> min ==> 70-80 lins 
+
+
+hr --> horizontal rule
+
+ <!-- 
+    Marquee tag– moving text, image, 
+    behavior = “scroll”, “slide”, “alternate”; 
+    direction = “left”, “right”, “up”, “down”; 
+    scrollamount = “20”;  
+    -->
+
+
